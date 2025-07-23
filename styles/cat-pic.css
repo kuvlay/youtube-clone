@@ -1,0 +1,18 @@
+.thum-1{
+  width: 250px;
+  border-radius: 30px;
+}
+.thum-2{
+  width: 316px;
+  height: 316px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.thum-3{
+  width: 200px;
+  height: 200px;
+  object-fit:cover ;
+  object-position:center;
+  border-radius:50% ;
+}

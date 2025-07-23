@@ -1,0 +1,20 @@
+# Node, OS, and editor junk
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# VSCode
+.vscode/
+
+# Image folders (not source assets)
+profile-pic/
+thumbnails/
+youtube-thumbnails/
+icons/
+
+# Unused or binary files
+panda.jpg
+
+# Other
+npm-debug.log* 

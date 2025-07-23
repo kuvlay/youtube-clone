@@ -1,0 +1,100 @@
+.name-box{
+  display: block;
+  margin-bottom: 5px;
+}
+
+.mail-box{
+  display: block;
+}
+
+.para{
+  width: 300px;
+  display: inline-block;
+  vertical-align: middle ;
+}
+
+.button-des{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.google{
+  display: block;
+  margin-left: 150px;
+  width: 200px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+.search-google{
+  box-sizing: border-box;
+  padding-top: 12px;
+  padding-bottom: 12px ;
+  border: solid;
+  border-width: 0.1px;
+  border-color: gray;
+  border-radius: 20px;
+  margin-left: 85px;
+}
+
+.box-name{
+  margin-bottom: 10px;
+  margin-right: 5px;
+  padding-top: 5px ;
+  padding-bottom:5px ;
+  padding-left: 7px;
+  border-radius: 5px;
+  border: solid;
+  border-width: 0.1px;
+}
+
+.email-box{
+  display: block;
+  margin-bottom: 10px;
+  padding-top: 5px ;
+  padding-bottom:5px ;
+  padding-left: 7px;
+  border: solid;
+  border-width: 0.1px;
+  border-radius: 5px;
+  padding-right: 190px;
+}
+.sign{
+  background-color: rgb(69, 69, 245);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 366px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.req-rd{
+  font-family: arial;
+  font-size: 25px;
+  color: black;
+}
+
+.location{
+  display: block;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  padding-right: 50px;
+  background-color: rgb(233, 229, 229);
+}
+
+.request-button{
+  border: none;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.schedule-button{
+  border: none;
+  padding: 10px;
+  margin-left: 2px;
+  cursor: pointer;
+}

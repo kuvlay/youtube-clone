@@ -1,0 +1,40 @@
+.box{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.circle{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  display: inline-block ;
+}
+.service-div{
+  
+  padding: 20px;
+  padding-right: 80px;
+  padding-top: 0px;
+  border: solid;
+  border-color: gray;
+  border-width: 0.1px;
+  margin-left: 20px;
+  width: 200px;
+}
+.yt-music{
+  display: inline-block;
+  background-color: black;
+  padding-left: 20px;
+}
+.yt-head{
+  color: white;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+.yt-bd{
+  color: gray;
+  width: 350px;
+  margin-top: 10px;
+
+}

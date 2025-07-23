@@ -1,0 +1,86 @@
+.round-corner{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 20px;
+  border-radius: 13px;
+  border: solid;
+  border-width: 1px;
+  border-color:darkgrey;
+  
+}
+.long-roundcorner{
+  font-size: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: none;
+  border-radius: 30px;
+  width: 300px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  
+}
+.cat-image{
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 25px;
+  margin-left: 5px;
+  margin-right: 5px;
+  vertical-align: auto;
+}
+.inf-text,
+.info-text{
+  font-size:13px;
+  color: gray;
+}
+
+.inf-text{
+  display: inline-block;
+}
+.button-linked{
+  background-color: blue;
+  border: none;
+  padding-top: 10px;
+  padding-bottom:10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.button-linked:hover{
+  opacity: 0.7;
+}
+.button-linked:active{
+  opacity: 0.4;
+}
+.chat{
+  border: none;
+  vertical-align: 20px;
+}
+.tweet{
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  vertical-align: 20px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+}
+.tweet:hover{
+  background-color: rgb(255, 255, 255);
+  color: blue;
+}
+.tweet:active{
+  opacity: 0.5;
+}
